@@ -9,6 +9,7 @@
 # Marc Tormo i Bochaca <mtbochaca@gmail.com>, 2018
 # Martin Trigaux, 2018
 # RGB Consulting <odoo@rgbconsulting.com>, 2018
+# Manel Fernandez <manelfera@outlook.com>, 2019
 # M Palau <mpalau@tda.ad>, 2019
 # 
 msgid ""
@@ -396,7 +397,7 @@ msgstr ""
 #: code:addons/portal/static/src/xml/portal_chatter.xml:11
 #, python-format
 msgid "There are no comments for now."
-msgstr ""
+msgstr "Actualment no hi ha comentaris."
 
 #. module: portal
 #: model:ir.ui.view,arch_db:portal.wizard_view
@@ -559,7 +560,7 @@ msgstr "Assistent"
 #: code:addons/portal/static/src/xml/portal_chatter.xml:32
 #, python-format
 msgid "Write a message..."
-msgstr ""
+msgstr "Escriure un comentari."
 
 #. module: portal
 #. openerp-web
@@ -591,7 +592,7 @@ msgstr "Els vostres detalls"
 #. module: portal
 #: model:ir.ui.view,arch_db:portal.portal_my_home
 msgid "Your Documents"
-msgstr ""
+msgstr "Documents"
 
 #. module: portal
 #. openerp-web
